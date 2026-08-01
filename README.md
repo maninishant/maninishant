@@ -1,6 +1,7 @@
-# Hey there 👋 I'm Nishant Mani
+# Hey! 👋 I'm Nishant Mani
 
-**Data Science & Machine Learning Enthusiast** • B.Tech CSE (Data Science) @ USICT
+**Data Science & Machine Learning Enthusiast** 
+• B.Tech CSE (Data Science) @ USICT  • Diploma CSE @ DSEU
 
 <!-- CLEAN DYNAMIC PHILOSOPHY LINE -->
 <p align="center">

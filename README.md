@@ -1,16 +1,13 @@
-<!-- HEADER BANNER -->
+# Hey there 👋 I'm Nishant Mani
+
+**Data Science & Machine Learning Enthusiast** • B.Tech CSE (Data Science) @ USICT
+
+<!-- CLEAN DYNAMIC PHILOSOPHY LINE -->
 <p align="center">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=220&section=header&text=Hey%20there%20%F0%9F%90%A7%20I'm%20Nishant%20Mani&fontSize=40&fontColor=FF10F0&desc=Data%20Science%20%26%20Machine%20Learning%20%E2%80%A2%20B.Tech%20CSE-DS&descSize=18&descAlignY=65&fontAlignY=38&stroke=00F5FF&strokeWidth=2" width="100%" alt="Header Banner" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00F5FF&center=true&vCenter=true&width=750&height=40&lines=I+like+working+on+real-world+issues+and+sustainable+systems;Building+impactful+software+that+makes+a+difference;Turning+ideas+into+practical+data-driven+solutions" alt="Dynamic Philosophy Line" />
 </p>
 
-<!-- FIXED DYNAMIC TYPING LINE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00F5FF&background=0F172A&center=true&vCenter=true&width=800&height=60&lines=I+like+working+on+real-world+issues+and+sustainable+systems;Building+impactful+software%2C+ML+models%2C+and+automation;Python+%7C+Java+%7C+FastAPI+%7C+PostgreSQL" alt="Dynamic Typing Line" />
-</p>
-
-<!-- SOCIAL CONNECT BADGES -->
+<!-- SOCIAL & CONNECT BADGES -->
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nishant22mani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -71,5 +68,5 @@
 ---
 
 <p align="center">
-  <i>HMU if you wanna talk about tech, history or literature</i>
+  <i>HMU if you wanna talk about tech , history or literature.</i>
 </p>

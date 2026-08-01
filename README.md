@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,833ab4,30,fd1d1d,60,fcb045&height=220&section=header&text=Nishant%20Mani&fontSize=45&fontColor=ffffff&desc=Data%20Science%20and%20Machine%20Learning&descSize=20&descAlign=50&descAlignY=70" width="100%" alt="Instagram Style Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=Hi,%20I%20am%20Nishant%20Mani&fontSize=55&fontColor=FF00CC&fontAlignY=50" width="100%" alt="Header Banner" />
 </p>
-</p>
-
-# Hey there 👋 I'm Nishant Mani
 
 Data Science & ML Enthusiast • B.Tech CSE (Data Science) @ USICT
 

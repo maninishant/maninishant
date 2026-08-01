@@ -60,8 +60,7 @@
 
 ### 📊 GitHub Activity
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maninishant&theme=tokyonight&show_icons=true" width="48%" alt="GitHub Stats" />
----
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maninishant&theme=tokyonight&layout=compact" width="48%" alt="Top Languages" />
 
 <p align="center">
   <i>HMU if you wanna talk about tech , history or literature.</i>

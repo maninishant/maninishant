@@ -4,7 +4,7 @@
 
 <!-- CLEAN DYNAMIC PHILOSOPHY LINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00F5FF&center=true&vCenter=true&width=750&height=40&lines=I+like+working+on+real-world+issues+and+sustainable+systems;Building+impactful+software+that+makes+a+difference;Turning+ideas+into+practical+data-driven+solutions" alt="Dynamic Philosophy Line" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=E066CB&center=true&vCenter=true&width=750&height=40&lines=I+like+working+on+real-world+issues+and+sustainable+systems;Building+impactful+software+that+makes+a+difference;Turning+ideas+into+practical+data-driven+solutions" alt="Dynamic Philosophy Line" />
 </p>
 
 <!-- SOCIAL & CONNECT BADGES -->

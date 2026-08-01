@@ -60,11 +60,7 @@
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" />
-</p>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maninishant&theme=tokyonight&show_icons=true" width="48%" alt="GitHub Stats" />
 ---
 
 <p align="center">
